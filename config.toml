@@ -4,7 +4,4 @@ title = 'My New Hugo Site'
 theme = "ananke"
 
 
-[params]
-  commentoEnable = true
-
 
