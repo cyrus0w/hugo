@@ -1,4 +1,4 @@
 # hugo
-```vim
+```vi
 dsd
 ```
